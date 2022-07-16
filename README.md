@@ -8,14 +8,28 @@ Number and name of feature: [Portfolio Project Board](https://trello.com/invite/
 Published at: https://frazer-portfiolio.netlify.app/
 
 ---
-Number and name of feature: Clone Template and Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed.
+
+Number and name of feature: 1. Clone Template and Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed.
 
 Estimate of time needed to complete: 1 hours
 
 Start time: 1410
 
-Finish time: 
+Finish time: 1444
 
-Actual time needed to complete: 
+Actual time needed to complete: 34 minutes
 
 ---
+
+Number and name of feature: 2. About Me Page: As a user, I want to know all about the developer's professional history and values along with their personality.
+
+Estimate of time needed to complete: 1 hours
+
+Start time: 1445
+
+Finish time: 1507
+
+Actual time needed to complete: 22 minutes 
+
+---
+
