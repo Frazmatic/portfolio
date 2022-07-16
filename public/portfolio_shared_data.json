@@ -1,12 +1,17 @@
 {
     "basic_info": {
       "name": "Joshua Frazer",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer & Systems Sorcerer"],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Frazmatic",
           "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/joshua-frazer1/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
