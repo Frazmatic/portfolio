@@ -1,17 +1,12 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Joshua Frazer",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
           "url": "https://github.com",
           "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
         }
       ],
       "image": "myProfile.jpg"
