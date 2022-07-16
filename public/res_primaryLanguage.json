@@ -78,38 +78,38 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Port of Seattle",
+        "title": "Infrastructure Operations",
+        "years": "2017 - 2018",
         "mainTech": [
-          "Angular 8/9/10"
+          "Windows Server"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Linux",
+          "Windows Server",
+          "Network Monitoring (Solaris)",
+          "Microsoft SQL Server"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "United States Airforce",
+        "title": "Clienty Systems (SSgt, Craftsman 7-level)",
+        "years": "2003 to 2011",
         "mainTech": [
-          "Angular 7/8"
+          "Unix"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "C",
+          "Cisco CTL",
+          "Various proprietary systems"
         ]
+      },
+      {
+        "company": "Sykes Enterprises",
+        "title": "Phone Technical Support",
+        "years": "2002",
+        "mainTech": [],
+        "technologies": []
       }
     ]
   }
