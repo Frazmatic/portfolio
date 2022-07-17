@@ -51,8 +51,20 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 1625
 
-Finish time: 
+Finish time: 1645
 
-Actual time needed to complete: 
+Actual time needed to complete: 20 minutes 
+
+---
+
+Number and name of feature: 5. Personalize: As a user, I want the site to reflect the personal style and feel of the developer, so that I can distinguish them from the average dev.
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 1650
+
+Finish time: 1720
+
+Actual time needed to complete: 30 minutes 
 
 ---
